@@ -8,7 +8,7 @@
 🎓 &nbsp;Studied Computer Science at University of Science.  
 🔭 &nbsp;I am currently working at Designveloper as Full-Stack Developer.  
 📫 &nbsp;How to reach me: thinnguyen2625@gmail.com  
-🤟 &nbsp;My personal website: [thinnguyen.dev](https://thinnguyen.netlify.app/)
+<!--🤟 &nbsp;My personal website: [thinnguyen.dev](https://thinnguyen.netlify.app/) -->
 
 &emsp;
 ## 🛠 &nbsp;Tech Stack
