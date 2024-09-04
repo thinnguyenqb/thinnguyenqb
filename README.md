@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-    Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, there! My name is Dominic (Thin) Nguyen <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+    Hi bro <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! My name is Dominic (Thin) Nguyen <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
   </h2>
 </div>
 
@@ -10,8 +10,7 @@
 📫 &nbsp;How to reach me: thinnguyen2625@gmail.com  
 <!--🤟 &nbsp;My personal website: [thinnguyen.dev](https://thinnguyen.netlify.app/) -->
 
-&emsp;
-## 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 ### Programming languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
