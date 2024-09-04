@@ -10,7 +10,8 @@
 📫 &nbsp;How to reach me: thinnguyen2625@gmail.com  
 <!--🤟 &nbsp;My personal website: [thinnguyen.dev](https://thinnguyen.netlify.app/) -->
 
-### 🛠 &nbsp;Tech Stack
+&emsp;
+## 🛠 &nbsp;Tech Stack
 ### Programming languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
