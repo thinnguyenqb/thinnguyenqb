@@ -8,7 +8,7 @@
 🔭 &nbsp;I am currently working at CyberLogitec as Full-Stack Developer.  
 🎓 &nbsp;Studied Computer Science at University of Science.  
 📫 &nbsp;How to reach me: thinnguyen2625@gmail.com  
-🤟 &nbsp;My personal website: [thinnguyen.dev](https://thinnguyen.netlify.app/)
+🤟 &nbsp;My personal website: [thinnguyen.dev](#)
 
 ## 🛠 &nbsp;Tech Stack
 #### Programming languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC) ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
